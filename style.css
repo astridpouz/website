@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@300&family=Rubik:wght@300&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Roboto Serif', serif;
+	font-size:  18px;
+	background-color:  beige;
+}
+h1, h2, h3 {
+	font-family: 'Rubik', sans-serif;
+	font-weight:  bold;
+}
+
+a{
+	text-decoration:  none;
+}
